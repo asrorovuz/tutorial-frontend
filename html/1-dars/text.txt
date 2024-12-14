@@ -1,0 +1,74 @@
+1. <!DOCTYPE html> - HTML faylining versiyasini bildiradi.
+   Misol: <!DOCTYPE html>
+
+2. <html> - HTML hujjatining asosiy tagi.
+   Misol: <html lang="uz"></html>
+
+3. <meta> - Meta ma’lumotlarni beradi.
+   Misol: <meta charset="UTF-8">
+
+4. <title> - Brauzer yorlig‘ida ko‘rinadigan nom.
+   Misol: <title>Mening Sahifam</title>
+
+5. <head> - HTML hujjatining bosh qismi.
+   Misol: <head></head>
+
+6. <body> - HTML hujjatining asosiy ko‘rinadigan qismi.
+   Misol: <body></body>
+
+7. <h1> - <h6> - Sarlavhalar (eng katta <h1>, eng kichik <h6>).
+   Misol: <h1>Bosh Sarlavha</h1>
+
+8. <p> - Paragraflar yaratadi.
+   Misol: <p>Bu paragraf</p>
+
+9. <img> - Rasmni qo‘shadi.
+   Misol: <img src="rasm.jpg" alt="Rasm Tavsifi">
+
+10. <ol> - Tartiblangan ro‘yxat.
+    Misol: <ol><li>Element</li></ol>
+
+11. <ul> - Tartiblanmagan ro‘yxat.
+    Misol: <ul><li>Element</li></ul>
+
+12. <li> - Ro‘yxat elementi.
+    Misol: <li>Element</li>
+
+13. <hr> - Gorizontal chiziq.
+    Misol: <hr>
+
+14. <dl> - Ta'riflar ro‘yxati.
+    Misol: <dl><dt>Element</dt><dd>Ta'rif</dd></dl>
+
+15. <dt> - Ta'rif qilinadigan element.
+    Misol: <dt>Element</dt>
+
+16. <dd> - Ta'rifning o‘zi.
+    Misol: <dd>Ta'rif</dd>
+
+17. <mark> - Matnni ajratish uchun ishlatiladi.
+    Misol: <mark>Ajratilgan Matn</mark>
+
+18. <del> - O‘chirilgan matn.
+    Misol: <del>Eski Matn</del>
+
+19. <sub> - Pastki indeks.
+    Misol: H<sub>2</sub>O
+
+20. <sup> - Yuqori indeks.
+    Misol: X<sup>2</sup>
+
+21. <u> - Matnni tagiga chizish.
+    Misol: <u>Tagi Chizilgan Matn</u>
+
+22. <b> - Matnni qalin yozadi (vizual maqsadda).
+    Misol: <b>Qalin Matn</b>
+
+23. <strong> - Muhim matnni qalin yozadi.
+    Misol: <strong>Muhim Matn</strong>
+
+24. <br> - Yangi qatorga o‘tadi.
+    Misol: Matn<br>Yangi Qator
+
+25. <a> - Havola yaratadi.
+    Misol: <a href="https://example.com">Sahifaga o‘tish</a>
